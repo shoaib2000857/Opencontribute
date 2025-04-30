@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Collab Sphere
 
-## Getting Started
+## Project Overview
 
-First, run the development server:
+COLLAB-SPHERE is a web application designed to facilitate collaboration among students interested in contributing to open-source projects. The platform allows users to create accounts, share project ideas, and express interest in various projects. Each project post includes a dedicated discussion area for collaboration and queries, making it easier for students to connect and work together.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- User Authentication: Users can create accounts and log in to the platform.
+- Project Sharing: Users can share their project ideas along with the required skillsets.
+- Interest Expression: Other students can express interest in projects via an "I'm Interested" button.
+- Discussion Area: Each project post includes a dedicated discussion area for collaboration and queries.
+- User Profiles: Users can view and edit their profiles, including their skills and interests.
+- Search and Filter: Users can search for projects based on keywords and filter them by required skills.
+- Notifications: Users receive notifications for new project posts and replies in the discussion area.
+- Responsive Design: The application is designed to be responsive and user-friendly on various devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Next.js: A React framework for building server-rendered applications.
+- MongoDB: A NoSQL database for storing user and project data.
