@@ -20,4 +20,5 @@ COLLAB-SPHERE is a web application designed to facilitate collaboration among st
 
 - Next.js: A React framework for building server-rendered applications.
 - MongoDB: A NoSQL database for storing user and project data.
-- Clerk: The most comprehensive User Management Platform
+- Clerk: A modern authentication solution for secure user management and session handling.
+
