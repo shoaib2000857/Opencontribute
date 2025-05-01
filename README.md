@@ -14,8 +14,10 @@ COLLAB-SPHERE is a web application designed to facilitate collaboration among st
 - Search and Filter: Users can search for projects based on keywords and filter them by required skills.
 - Notifications: Users receive notifications for new project posts and replies in the discussion area.
 - Responsive Design: The application is designed to be responsive and user-friendly on various devices.
+- Secure Authentication: Clerk based authentication is used to provide secure authentication and user management
 
 ## Tech Stack
 
 - Next.js: A React framework for building server-rendered applications.
 - MongoDB: A NoSQL database for storing user and project data.
+- Clerk: The most comprehensive User Management Platform
